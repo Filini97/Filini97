@@ -25,4 +25,4 @@ ___
 #### Email
 
 
-'filimonovalexey.programmer@gmail.com'
+filimonovalexey.programmer@gmail.com
