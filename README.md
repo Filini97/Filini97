@@ -16,13 +16,13 @@ ___
 
 ### Links
 
-[Curriculum vitae (Cv)](https://docs.google.com/document/d/1NuCmQsa_YtF9mNgeQQOqUF3XWN_c8HuxvpCtgNdDPTE/edit#heading=h.g6odaa3ii3ep)   
+[<span style="color:green;">Curriculum vitae (Cv)](https://docs.google.com/document/d/1NuCmQsa_YtF9mNgeQQOqUF3XWN_c8HuxvpCtgNdDPTE/edit#heading=h.g6odaa3ii3ep)   
 
-[Telegram](https://t.me/Alexey_filini)
+[<span style="color:green;">Telegram](https://t.me/Alexey_filini)
 
 ___
 
 #### Email
 
 
-filimonovalexey.programmer@gmail.com
+######filimonovalexey.programmer@gmail.com
