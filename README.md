@@ -12,10 +12,15 @@
 * Работа с фреймворком Spring/ Spring Boot
 * Создание Docker-контейнера
 
-
+___
 
 ###Links
 
 [Curriculum vitae (Cv)](https://docs.google.com/document/d/1NuCmQsa_YtF9mNgeQQOqUF3XWN_c8HuxvpCtgNdDPTE/edit#heading=h.g6odaa3ii3ep)   
 
 [Telegram](https://t.me/Alexey_filini)
+
+___
+
+####Email
+filimonovalexey.programmer@gmail.com
