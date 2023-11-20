@@ -5,7 +5,6 @@
 
 ### Tools and Languages
 
-* Java
 * Java - базовый уровень
 * PostgreSQL - базовый уровень
 * Spring/ Spring Boot - базовый уровень
