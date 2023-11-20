@@ -26,3 +26,6 @@ ___
 
 
 filimonovalexey.programmer@gmail.com
+
+a.disabled {   pointer-events: none; }
+<a href="" class="disabled">filimonovalexey.programmer@gmail.com </a>
