@@ -4,19 +4,18 @@
 
 
 ### Tools and Languages
+
 * Java
-* Разработка веб-приложений
-* Использование шаблонов проектирования
-* Работа с базами данных
-* Написание запросов на SQL
-* Работа с фреймворком Spring/ Spring Boot
-* Создание Docker-контейнера
+* Java - базовый уровень
+* PostgreSQL - базовый уровень
+* Spring/ Spring Boot - базовый уровень
+* Docker - базовый уровень
 
 ___
 
 ### Links
 
-[<span style="color:green;">Curriculum vitae (Cv)](https://docs.google.com/document/d/1NuCmQsa_YtF9mNgeQQOqUF3XWN_c8HuxvpCtgNdDPTE/edit#heading=h.g6odaa3ii3ep)   
+[<span style="color:green;">Curriculum vitae (Cv)](https://drive.google.com/file/d/1p25ZgNxWBIrh9BYqWf8MFmHJil94WptV/view?usp=sharing)   
 
 [<span style="color:green;">Telegram](https://t.me/Alexey_filini)
 
@@ -24,8 +23,5 @@ ___
 
 #### Email
 
-
 filimonovalexey.programmer@gmail.com
 
-a.disabled {   pointer-events: none; }
-<a href="" class="disabled">filimonovalexey.programmer@gmail.com </a>
